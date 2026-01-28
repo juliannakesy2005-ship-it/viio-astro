@@ -25,7 +25,7 @@ npm install
 Run the development server:
 
 ```bash
-npm run dev
+
 ```
 
 Build the production site (output to `./dist/`):
